@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Jubz-Cherry/teste-da-jubis#readme",
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "express": "^5.1.0"
   }
 }
